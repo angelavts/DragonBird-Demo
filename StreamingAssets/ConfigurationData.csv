@@ -1,0 +1,12 @@
+DragonMoveUnitsPerSecond;20
+FireImpulseForce;20
+MinImpulseForce;2
+MaxImpulseForce;3
+BirdMinShotDelay;2
+BirdMaxShotDelay;2
+ProjectileDamage;10
+SuperFireDamage;50
+BirdPoints;10
+MinSpawnDelay;0,5
+MaxSpawnDelay;1,5
+TotalBirds;30
